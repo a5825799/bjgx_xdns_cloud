@@ -11,6 +11,7 @@
   	<module>spring_xdns_cloud_service_feign</module>
   	<module>spring_xdns_cloud_service_zuul</module>
   	<module>spring_xdns_cloud_config_server</module>
+  	<module>spring_xdns_cloud_third</module>
   </modules>
   <parent>
       <groupId>org.springframework.boot</groupId>
